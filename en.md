@@ -1,5 +1,3 @@
-# 💼 Resume
-
 [🇷🇺 Версия на русском →](index.md)
 
 ## 🧑‍💻 Profile
