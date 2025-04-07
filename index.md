@@ -1,4 +1,4 @@
-[🇬🇧 English version →](en.md)
+[🇬🇧 English version →](en)
 
 ## 🧑‍💻 Профиль
 
