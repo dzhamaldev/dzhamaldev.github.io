@@ -59,7 +59,8 @@ I build reliable and scalable backend systems using Python, with a focus on secu
 ## 🎓 Education
 
 **Kazan National Research Technological University (KNRTU)**  
-*Bachelor’s Degree, 2017*
+*Bachelor’s Degree, 2017*  
+**Major:** Information Systems and Technologies
 
 ---
 
